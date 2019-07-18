@@ -1,4 +1,4 @@
-# Xilinx_quantization
+# XilinxSummer_quantization
 
 When our training is OK, there are two files generated.
 For example, float.prototxt and float.caffemodel.
